@@ -1,0 +1,22 @@
+name: ClassServer
+version: '${project.version}'
+main: de.kanebot2010.classserver.classserver.ClassServer
+api-version: 1.18
+commands:
+  coins:
+  check:
+  sell:
+  buy:
+  sevensword:
+  sevenaxe:
+  sevenhelmet:
+  sevenchestplate:
+  sevenleggings:
+  sevenboots:
+  spider:
+  cavespider:
+  zombie:
+  skeleton:
+  creeper:
+  blaze:
+  cointodia:
